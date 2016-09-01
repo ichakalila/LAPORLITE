@@ -1,0 +1,646 @@
+.isi {
+    -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
+    -moz-animation: fadein 2s; /* Firefox < 16 */
+    -ms-animation: fadein 2s; /* Internet Explorer */
+    -o-animation: fadein 2s; /* Opera < 12.1 */
+    animation: fadein 2s;
+}
+
+#email{
+    margin-top: 20px;
+    background-color: #f6f7f8;
+
+    padding-bottom: 20px;
+}
+
+#password{
+    margin-top: 10px;
+}
+
+.centerimg{
+    margin-left: auto;
+    margin-right: auto;
+    display: block !important;
+}
+
+.tempatlampiran{
+    padding-bottom: 10px;
+}
+
+.filelampiran{
+    font-size: 25px;
+    padding-left: 0px;
+    padding-right: 30px;
+    /* padding-bottom: 5px; */
+}
+
+#tindaklanjut{
+    border-top: 1px solid #e1e2e3;
+    background-color: #f6f7f8;
+    margin-top: 10px;
+}
+
+.div-tl{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    /* border: 1px solid; */
+    /* border-bottom: 1px solid; */
+    border-color: #e5e6e9 #dfe0e4 #d0d1d5;
+    border-radius: 3px;
+}
+
+.tlbar{
+    background-color: #f6f7f8;
+    padding-left: 15px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 15px;
+}
+.tlbar textarea{
+        height: 8em;
+}
+
+#tindaklanjut>h5{
+
+    padding-bottom: 10px;
+    margin-bottom: 0px !important;
+}
+
+.div-notif{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid;
+    border-color: #e5e6e9 #dfe0e4 #d0d1d5;
+    border-radius: 3px;
+}
+
+
+.div-notif>div>h6{
+    margin-top:3px;
+
+    color:#6C6B6B;
+    margin-bottom: 3px;
+}
+
+.div-notif>div>.time{
+
+    color:#6C6B6B;
+    margin-top: 10px !important;
+}
+
+.div-notif>h5{
+    
+    font-size: 13px;
+}
+
+.div-notif>div>h5{
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+.div-notif>div>p{
+
+    font-size: 10px;
+}
+
+.left-zero{
+    padding-left: 0px;
+}
+
+.right-zero{
+    padding-right: 0px;
+}
+.notif-img{
+    margin-top: 12px;
+    display: inline-block;
+    margin-left: 3px;
+    width: 5em;
+    padding:3px;
+    border:1px solid #ddd;
+
+}
+
+.komentar-img{
+    margin-top: 12px;
+    display: inline-block;
+    margin-left: 3px;
+    width: 3em;
+    padding:3px;
+    border:1px solid #ddd;
+}
+
+.register{
+    margin-top: 10px;
+    padding-bottom: 20px;
+}
+
+.tambahan{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.nomargin-b{
+    margin-bottom: 4px
+}
+.brand{
+
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-right: 0px;
+    padding-left: 10px;
+
+}
+
+.longspan{
+    line-height: 5px;
+}
+
+.komenblok{
+    margin-left: 1em;
+}
+
+.closed{
+    padding: 5px;
+    font-size: 12px;
+    color: #fff;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    background-color: #5cb85c;
+    position: relative;
+    top: -50px;
+}
+
+.closed-blm{
+    padding: 5px;
+    font-size: 12px;
+    color: #fff;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    background-color: #d9534f;
+    position: relative;
+    top: -70px;
+}
+
+.closed-pros{
+    padding: 5px;
+    font-size: 12px;
+    color: #fff;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    background-color: #f0ad4e;
+    position: relative;
+    top: -70px;
+}
+
+.brand h3{
+    font-size: 20px;
+}
+
+.footer{
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+.bot{
+    padding-bottom: 20px !important;
+}
+.nav{
+    font-size: 12px;
+}
+
+.topik_name{
+    background-color: #ddd;
+    padding: 5px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+.topik_name a{
+
+    color:#6C6B6B;
+}
+#top{
+    margin-top: 15px;
+}
+
+.sm-badge{
+    font-size: 9px;
+    padding: 3px 5px;
+    margin-right: 4px;
+    background-color: #D9534E;
+}
+
+.sm-badge :hover{
+    background-color: maroon;
+
+}
+.sm-badge a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.btn-komen{
+    background-color: #eee;
+}
+
+
+
+.sm-badge-zero{
+    font-size: 9px;
+    padding: 3px 5px;
+    margin-right: 4px;
+    background-color: #ddd;
+    color:#fff;
+}
+
+.sm-badge-zero a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.rating{
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+.shine{
+    color: sandybrown;
+}
+
+.redup{
+    color: #ddd;
+}
+
+.nextlaporan{
+    margin-top: 10px;
+    padding: 5px;
+    //background-color: #ddd;
+    width: 100%;
+    color:#777;
+}
+
+.nomargin{
+    margin: 0px
+}
+
+.blue-color{
+    color: #337ab7;
+}
+
+.verifikasi{
+    font-size: 12px;
+    color:#aaa;
+    padding-left: 15px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 15px;
+    background-color: #F2F2F2;
+
+}
+
+#komen{
+    border-top: 1px solid #e1e2e3;
+    background-color: #f6f7f8;
+    padding-left: 15px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 15px;
+    //margin-bottom: 10px;
+}
+
+.comment textarea{
+    height: 5em;
+}
+
+.nomargin-h{
+    margin:0px;
+    font-size: 8px;
+}
+
+.simple-divider{
+    margin: 0px;
+}
+
+.laporan-divider{
+    margin: 0px;
+    margin-bottom: 3px;
+}
+.login-divider{
+    margin: 2px;
+}
+
+.standard-btn{
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.laporandiv{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.content{
+    padding-right: 15px !important;
+    padding-left: 15px !important;
+}
+
+.parwrap{
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+}
+
+.laporan{
+    //padding-right: 0px;
+    padding:0px;
+    padding-top: 10px;
+    border: 1px solid;
+    border-color: #e5e6e9 #dfe0e4 #d0d1d5;
+    border-radius: 3px;
+    margin-top: 10px;
+    //margin-bottom: 10px;
+}
+
+.lapor{
+    //background: url("https://www.lapor.go.id/assets/style/lapor/images/report-bg.jpg") repeat scroll center top transparent;
+    background-color: rgba(255,175,13,0.8);
+    //color:white;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 1px;
+    margin-right: 1px;
+    padding-bottom: 20px;
+    margin-bottom: 0px;
+    z-index: 99;
+    box-shadow: 5px 0 10px -4px#888888, -5px 0 10px -4px #888888;
+}
+
+.tambahan{
+    color: #aaa;
+}
+#return-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.4);
+    width: 50px;
+    height: 50px;
+    display: block;
+    text-decoration: none;
+    -webkit-border-radius: 35px;
+    -moz-border-radius: 35px;
+    border-radius: 35px;
+    //display: none;
+    -webkit-transition: all 0.3s linear;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+#return-to-top i {
+    color: #fff;
+    margin: 0;
+    position: relative;
+    left: 16px;
+    top: 13px;
+    font-size: 19px;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+#return-to-top:hover {
+    background: rgba(0, 0, 0, 0.9);
+}
+#return-to-top:hover i {
+    color: #fff;
+    top: 5px;
+}
+
+.judullaporan{
+    margin-bottom :5px;
+    font-size: 18px;
+}
+
+.judullaporan a{
+
+    color: black;
+}
+
+.pelapor{
+    margin-top: 3px;
+    margin-bottom: 3px;
+    color:#aaa;
+}
+
+.home-separator{
+    margin-bottom: 0px;
+    margin-top: 15px;
+    border-top: 10px solid #eee;
+}
+
+.top-divide{
+    margin-bottom: 8px;
+}
+.fifty{
+    width: 50%;
+    display: block;
+    float:left;
+    padding-right: 1px;
+}
+.nopad{
+    padding-right: 0px;
+}
+
+.nopadding{
+    padding: 0px;
+}
+
+.thumbimg{
+    margin-top: 12px;
+    display: inline-block;
+    float:right;
+    margin-left: 3px;
+    width: 55px;
+    padding:3px;
+    border:1px solid #ddd;
+}
+
+.pelaporimg{
+    margin-top: 12px;
+    display: inline-block;
+    //float:right;
+    margin-left: 3px;
+    width: 55px;
+    padding:3px;
+    border:1px solid #ddd;
+}
+
+
+.bigimg{
+    width: 100px;
+    padding:3px;
+    border:1px solid #ddd;
+    margin-bottom: 5px;
+}
+
+.upload{
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+}
+.blok{
+    display: inline-block;
+}
+
+.check{
+    margin-bottom: 0px;
+}
+
+.loginas{
+    margin-top: 18px;
+    margin-bottom: 0px;
+    float:right;
+}
+
+textarea {
+    resize: none;
+}
+
+#login > div{
+    display: none;
+    
+}
+
+#login > div:target{
+    display: inline;
+    -webkit-animation: fadein 2s ease; /* Safari, Chrome and Opera > 12.1 */
+    -moz-animation: fadein 2s ease; /* Firefox < 16 */
+    -ms-animation: fadein 2s ease; /* Internet Explorer */
+    -o-animation: fadein 2s ease; /* Opera < 12.1 */
+    animation: fadein 2s ease;
+}
+
+.padbot{
+    padding-bottom: 15px;
+}
+
+
+body{
+    font-family: "Helvetica","Arial";
+    background: #e9eaed url("");
+}
+
+
+.box{
+    //padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgba(255, 255, 255, 0.9);
+    
+    box-shadow: 5px 0 10px -4px#888888, -5px 0 10px -4px #888888;
+    //margin-top: 20px;
+    //margin-bottom: 20px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+
+.box2{
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgba(255, 255, 255, 0.9);
+    
+    box-shadow: 5px 0 10px -4px#888888, -5px 0 10px -4px #888888;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.tooltip {
+    pointer-events: none;
+    top: -40px;
+    width: 150px;
+    background-color:#d9534f;
+    color:white;
+    padding: 5px;
+    border-radius:5px;
+    font-size: 12px;
+    opacity:0;
+    position:absolute;
+    -webkit-transition: opacity 0.1s;
+    -moz-transition:  opacity 0.5s;
+    -ms-transition: opacity 0.5s;
+    -o-transition:  opacity 0.5s;
+    transition:  opacity 0.5s;
+}
+
+
+.tooltip2 {
+    pointer-events: none;
+    top: -40px;
+    left:-125px;
+    width: 200px;
+    font-size: 12px;
+    background-color:#d9534f;
+    color:white;
+    padding: 5px;
+    border-radius:5px;
+    opacity:0;
+    position:absolute;
+    -webkit-transition: opacity 0.5s;
+    -moz-transition:  opacity 0.5s;
+    -ms-transition: opacity 0.5s;
+    -o-transition:  opacity 0.5s;
+    transition:  opacity 0.5s;
+}
+
+.hover:hover .tooltip {
+    opacity:1;
+}
+
+.hover:hover .tooltip2 {
+    opacity:1;
+}
+.tooltip p{
+    margin:0px;
+}
+
+.tooltip2 p{
+    margin:0px;
+}
+
+.laporlabel{
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.full{
+    width: 100%;
+}
+
+.checkbox{
+    display: inline-block;
+}
+
+.checkbox label input{
+    display: none;
+}
+
+.checkbox label{
+    float:left;
+}
+
+.checkbox label input:checked + div span{
+    background-color:#911 !important;
+    color:#fff;
+}
+
+.input{
+    width: 100%;
+}
+
+
+
